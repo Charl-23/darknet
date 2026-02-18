@@ -41,7 +41,7 @@ Appuyer sur Entrée pour revenir au menu
 
 ---
 
-**🇬🇧 Description**
+## 🇬🇧 Description
 
 This Python script launches Tor Browser and lets you select an Onion site.
 
@@ -59,7 +59,7 @@ Copy-paste the selected URL
 
 ---
 
-🇬🇧 Requirements
+## 🇬🇧 Requirements
 
 Python 3
 colorama
