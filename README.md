@@ -39,7 +39,7 @@ Copier l’URL affichée
 
 Appuyer sur Entrée pour revenir au menu
 
-
+---
 
 **🇬🇧 Description**
 
@@ -56,6 +56,8 @@ Copy-paste the selected URL
 ✔ Centered menu
 ✔ Hacker style interface
 ✔ Works on Windows & Kali Linux
+
+---
 
 🇬🇧 Requirements
 
