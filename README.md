@@ -1,8 +1,7 @@
 # 🕶 TOR AUTO LAUNCHER
-╔══════════════════════════════════════╗
-║ TOR AUTO LAUNCHER ║
-║ BY C404C ║
-╚══════════════════════════════════════╝
+
+TOR AUTO LAUNCHER ║
+BY C404C ║
 
 ---
 
@@ -29,10 +28,15 @@ Ce script Python permet de lancer **Tor Browser** puis de sélectionner un site 
   ```bash
   pip install colorama
 python3 darknet.py
+
 Choisir le numéro du site
+
 Lancer Tor via le script
+
 Cliquer sur Connect
+
 Copier l’URL affichée
+
 Appuyer sur Entrée pour revenir au menu
 
 
@@ -64,9 +68,14 @@ Windows → start-tor-browser.exe
 Linux → torbrowser-launcher
 
 python3 darknet.py
+
 Select the site number
+
 Launch Tor via script 
+
 Click Connect
+
 Copy the displayed URL
+
  Press Enter to return to menu
 
