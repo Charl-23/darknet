@@ -1,77 +1,84 @@
-# TOR AUTO LAUNCHER / TOR AUTO LAUNCHER
+TOR AUTO LAUNCHER / TOR AUTO LAUNCHER
 
-╔══════════════════════════════════════╗  
-║          TOR AUTO LAUNCHER           ║  
-║                BY C404C              ║  
-╚══════════════════════════════════════╝  
+╔══════════════════════════════════════╗
+║ TOR AUTO LAUNCHER ║
+║ BY C404C ║
+╚══════════════════════════════════════╝
 
----
+🇫🇷 Présentation
 
-## 🇫🇷 Présentation
-Script Python pour lancer Tor Browser et choisir un site Onion.  
-Ne force pas la connexion à Tor (sécurité), mais guide l’utilisateur :
+Ce script Python permet de lancer Tor Browser automatiquement, puis de choisir un site Onion à ouvrir.
+Le script ne force pas la connexion à Tor (pour des raisons de sécurité), mais guide l’utilisateur :
 
-1. Lancer Tor depuis le script  
-2. Cliquer sur **Connect**  
-3. Copier-coller l’URL du site choisi  
+Lancer Tor Browser depuis le script
 
-Menu centré, style hacker, fonctionne sur **Windows** et **Linux (Kali)**.
+Cliquer sur Connect dans Tor
 
-### 🇫🇷 Prérequis
-- Python 3  
-- Module `colorama` (`pip install colorama`)  
-- Tor Browser installé :  
-  - Windows : `start-tor-browser.exe`  
-  - Linux : `torbrowser-launcher`  
+Copier-coller l’URL du site choisi
 
-### 🇫🇷 Utilisation
-```bash
+Le menu est centré et stylé “hacker”, et le script fonctionne sur Windows et Linux (Kali).
+
+🇫🇷 Prérequis
+
+Python 3
+
+Module colorama (pip install colorama)
+
+Tor Browser installé :
+
+Windows : start-tor-browser.exe
+
+Linux : torbrowser-launcher
+
+🇫🇷 Utilisation
+
 python3 tor_launcher.py
 
-    Choisir le numéro du site
+Choisir le numéro correspondant au site
 
-    Lancer Tor via le script
+Lancer Tor via le script
 
-    Cliquer sur Connect
+Cliquer sur Connect
 
-    Copier l’URL dans Tor Browser
+Copier l’URL affichée dans Tor Browser
 
-    Appuyer sur Entrée pour revenir au menu
+Appuyer sur Entrée pour revenir au menu
 
 🇬🇧 Description
 
-Python script to launch Tor Browser and select an Onion site.
-Does not auto-connect to Tor (security), but guides the user:
+This Python script automatically launches Tor Browser and lets you select an Onion site.
+It does not automatically connect to Tor (for security reasons), but guides the user:
 
-    Launch Tor from the script
+Launch Tor Browser from the script
 
-    Click Connect
+Click Connect inside Tor
 
-    Copy-paste the URL of the chosen site
+Copy-paste the URL of your chosen site
 
-Centered hacker-style menu, works on Windows and Linux (Kali).
+The menu is centered with a hacker-style look, working on Windows and Linux (Kali).
+
 🇬🇧 Requirements
 
-    Python 3
+Python 3
 
-    colorama module (pip install colorama)
+colorama module (pip install colorama)
 
-    Tor Browser installed:
+Tor Browser installed:
 
-        Windows: start-tor-browser.exe
+Windows: start-tor-browser.exe
 
-        Linux: torbrowser-launcher
+Linux: torbrowser-launcher
 
 🇬🇧 Usage
 
 python3 tor_launcher.py
 
-    Select the site number
+Select the number of the site
 
-    Launch Tor via script
+Launch Tor via the script
 
-    Click Connect
+Click Connect
 
-    Copy URL into Tor Browser
+Copy the displayed URL into Tor Browser
 
-    Press Enter to return to menu
+Press Enter to return to the menu
