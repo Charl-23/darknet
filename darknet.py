@@ -67,9 +67,6 @@ sites = {
 }
 
 
-# ==============================
-# TOR DETECTION
-# ==============================
 
 def detect_tor():
     print(Fore.CYAN + center_block("[INFO] Detecting operating system..."))
@@ -88,9 +85,6 @@ def detect_tor():
     return None
 
 
-# ==============================
-# MAIN LOOP
-# ==============================
 
 while True:
     clear_screen()
@@ -140,7 +134,7 @@ while True:
         time.sleep(2)
         continue
 
-    # Launch Tor normally (NO URL)
+    
     print(Fore.CYAN + center_block("[INFO] Launching Tor Browser..."))
     time.sleep(2)
 
