@@ -61,9 +61,10 @@ Copy-paste the selected URL
 
 ## 🇬🇧 Requirements
 
-Python 3
-colorama
-pip install colorama
+- Python 3
+- module `colorama`
+  ```bash    
+   `pip install colorama`
 Tor Browser installed:
 
 Windows → start-tor-browser.exe
