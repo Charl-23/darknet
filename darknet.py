@@ -60,8 +60,8 @@ sites = {
     4: {"name": "    Riseup   ", "url": "http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/"},
     5: {"name": "    Oxacab   ", "url": "http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion:44203/"},
     6: {"name": " Pirate Bay  ", "url": "http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/"},
-    7: {"name": "Not available", "url": "http://example7.onion"},
-    8: {"name": "Not available", "url": "http://example8.onion"},
+    7: {"name": " Guns market ", "url": "http://gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion/"},
+    8: {"name": " Onion Wiki  ", "url": "http://darkzpclh3dvhdbrmavcejij4ftljmkgdpcugseljxkhl2qptpr5yxid.onion/"},
     9: {"name": "Not available", "url": "http://example9.onion"},
     10: {"name": "Not available", "url": "http://example10.onion"},
 }
